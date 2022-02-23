@@ -1,7 +1,7 @@
-var details =
 {
     "title" : "Roommates",
     "location" : "coimbatore",
+    "hostel" : "KrishMensHosel",
     "persons" :
     [
         {
